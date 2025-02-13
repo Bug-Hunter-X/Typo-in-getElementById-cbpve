@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in HTML/JavaScript. The bug arises from a simple typo in the getElementById function, a frequently used method for manipulating the DOM. The solution showcases the correct usage. The bug and solution files are both HTML files that include the problematic JavaScript.
